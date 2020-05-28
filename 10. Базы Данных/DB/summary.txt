@@ -1,0 +1,3 @@
+Petrov	Asu	index:0
+SidorovAS	BM	index:1
+PetrovRT	AM	index:0
